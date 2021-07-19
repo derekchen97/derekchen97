@@ -1,9 +1,10 @@
+# About Me
 - 👋 Hi, I’m @derekchen97
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 
-Current Projects
-- Developing a website for Haydn Music
+# Current Projects
+- Developing a landing page website for Haydn Music
   - Current Progress In Production: [Haydn Music Piano School](https://haydnmusic.org/)
 
 <!---
