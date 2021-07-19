@@ -6,6 +6,7 @@
 # Current Projects
 - Developing a landing page website for Haydn Music
   - Current Progress In Production: [Haydn Music Piano School](https://haydnmusic.org/)
+  - Tech Stack: React, Typescript
 
 <!---
 derekchen97/derekchen97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
